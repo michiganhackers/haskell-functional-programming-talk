@@ -1,5 +1,9 @@
 # Introduction to Haskell
 
+Here is the video of the talk if you want more in depth commentary :)
+
+https://www.youtube.com/watch?v=enu3rh5FJPQ&list=UUi7ZzU3Ic7DcDW3mlCqaArw
+
 ## What is Haskell
 
 - Functional, pure, programming language
